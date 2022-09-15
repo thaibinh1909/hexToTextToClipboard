@@ -3,7 +3,7 @@ import subprocess
 vEncode = "utf-8"
 vWinClipboard = "clip.exe"
   
-vInputText = "Enter to exit or paste HEX below:\n"
+vInputText = "Press Enter to exit or paste HEX to continue:\n"
 vOutputText = "\nBelow result has been in your clipboard already.\nResult:"
 vErrMsg = "Not a HEX string, retry!"  
 
